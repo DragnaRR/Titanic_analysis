@@ -3,6 +3,7 @@ A basic exploratory data analysis on Titanic dataset, training and testing of Lo
 
 # Requirements
 - Python 3.7.3
+
 Required libraries
 - numpy 1.16.2
 - pandas 0.24.2
